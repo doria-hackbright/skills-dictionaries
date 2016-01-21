@@ -1,0 +1,9 @@
+this
+is
+for
+the
+sort
+by
+word
+length
+doctest
